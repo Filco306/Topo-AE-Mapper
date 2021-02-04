@@ -15,7 +15,7 @@ Best, Filip
 
 This repository is for the experiments in the submission accepted to the workshop *TDA and Beyond* at NeurIps2020.
 
-The experiments were run using __Python 3.8.5__.
+The experiments were run using __Python 3.8.7__.
 
 ## Install
 
