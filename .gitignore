@@ -1,0 +1,13 @@
+.DS_Store
+data/
+data_to_analyze/
+experimentation/*/*.png
+experimentation/*/*.pdf
+experimentation/*/*.npz
+.ipynb_checkpoints/
+*.ipynb
+misc/
+__pycache__
+topological_autoencoders
+test-output.xml
+latents_old
