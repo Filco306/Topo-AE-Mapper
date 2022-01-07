@@ -78,6 +78,9 @@ To run these experiments on another dataset, your data should be divided as foll
 - `test_dataset.csv` : the test data points
 - `test_dataset_labels.csv` : the manifold label groupings of the test set
 - `latents.csv` : latents of the *test* data points from inference of a topological autoencoder
+- `latents/tae_spheres.csv` - tae *test* points but without the labels (`latents.csv` also contains the manifold labels).
+
+Additionally, the `latents/` folder which will be filled up with csv-files during the experiments. It contains `tae_spheres.csv`, which is the `latents.csv` without the labels. 
 
 ## TAE-model
 
